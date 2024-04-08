@@ -13,7 +13,6 @@ public class DesafioUno {
 		int castFahrenheit = (int)fahrenheit;
 		System.out.println(castFahrenheit);
 		
-		
 	}
 
 }
